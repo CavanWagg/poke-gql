@@ -3,13 +3,11 @@ import {
   Grid,
   Chip,
   CardHeader,
-  Typography,
   Card,
   CardActionArea,
   CardActions,
   CardContent,
   CardMedia,
-  Container,
 } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import FavoriteIcon from "@material-ui/icons/Favorite";
